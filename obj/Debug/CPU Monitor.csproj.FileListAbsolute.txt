@@ -1,0 +1,6 @@
+c:\users\mathias\documents\visual studio 2013\Projects\CPU Monitor\CPU Monitor\bin\Debug\CPU Monitor.exe.config
+c:\users\mathias\documents\visual studio 2013\Projects\CPU Monitor\CPU Monitor\bin\Debug\CPU Monitor.exe
+c:\users\mathias\documents\visual studio 2013\Projects\CPU Monitor\CPU Monitor\bin\Debug\CPU Monitor.pdb
+c:\users\mathias\documents\visual studio 2013\Projects\CPU Monitor\CPU Monitor\obj\Debug\CPU Monitor.csprojResolveAssemblyReference.cache
+c:\users\mathias\documents\visual studio 2013\Projects\CPU Monitor\CPU Monitor\obj\Debug\CPU Monitor.exe
+c:\users\mathias\documents\visual studio 2013\Projects\CPU Monitor\CPU Monitor\obj\Debug\CPU Monitor.pdb
